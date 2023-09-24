@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Andaman_Terramar\\Fraccionamientos\\Fraccionamientos\\Fraccionamientos.csproj": {}
+  },
+  "projects": {
+    "C:\\Andaman_Terramar\\Fraccionamientos\\BibliotecaClases\\BibliotecaClases.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Andaman_Terramar\\Fraccionamientos\\BibliotecaClases\\BibliotecaClases.csproj",
+        "projectName": "BibliotecaClases",
+        "projectPath": "C:\\Andaman_Terramar\\Fraccionamientos\\BibliotecaClases\\BibliotecaClases.csproj",
+        "frameworks": {
+          "net46": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net46": {}
+      }
+    },
+    "C:\\Andaman_Terramar\\Fraccionamientos\\Fraccionamientos\\Fraccionamientos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Andaman_Terramar\\Fraccionamientos\\Fraccionamientos\\Fraccionamientos.csproj",
+        "projectName": "Fraccionamientos",
+        "projectPath": "C:\\Andaman_Terramar\\Fraccionamientos\\Fraccionamientos\\Fraccionamientos.csproj",
+        "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
+        "outputPath": "C:\\Andaman_Terramar\\Fraccionamientos\\Fraccionamientos\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\angel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net46"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net46": {
+            "projectReferences": {
+              "C:\\Andaman_Terramar\\Fraccionamientos\\BibliotecaClases\\BibliotecaClases.csproj": {
+                "projectPath": "C:\\Andaman_Terramar\\Fraccionamientos\\BibliotecaClases\\BibliotecaClases.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net46": {}
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

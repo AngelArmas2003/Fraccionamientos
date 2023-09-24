@@ -1,0 +1,142 @@
+{
+  "format": 1,
+  "restore": {
+    "Z:\\Andaman_Terramar\\Fraccionamientos\\Consola_whats\\Consola_whats.csproj": {}
+  },
+  "projects": {
+    "Z:\\Andaman_Terramar\\Fraccionamientos\\Consola_whats\\Consola_whats.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\Andaman_Terramar\\Fraccionamientos\\Consola_whats\\Consola_whats.csproj",
+        "projectName": "Consola_whats",
+        "projectPath": "Z:\\Andaman_Terramar\\Fraccionamientos\\Consola_whats\\Consola_whats.csproj",
+        "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
+        "outputPath": "Z:\\Andaman_Terramar\\Fraccionamientos\\Consola_whats\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\angel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "Z:\\Andaman_Terramar\\Fraccionamientos\\Library_whats\\Library_whats.csproj": {
+                "projectPath": "Z:\\Andaman_Terramar\\Fraccionamientos\\Library_whats\\Library_whats.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Z:\\Andaman_Terramar\\Fraccionamientos\\Library_whats\\Library_whats.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\Andaman_Terramar\\Fraccionamientos\\Library_whats\\Library_whats.csproj",
+        "projectName": "Library_whats",
+        "projectPath": "Z:\\Andaman_Terramar\\Fraccionamientos\\Library_whats\\Library_whats.csproj",
+        "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
+        "outputPath": "Z:\\Andaman_Terramar\\Fraccionamientos\\Library_whats\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\angel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Twilio": {
+              "target": "Package",
+              "version": "[6.10.0, )"
+            },
+            "Twilio.AspNet.Mvc": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

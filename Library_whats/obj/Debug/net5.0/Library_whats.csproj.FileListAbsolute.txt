@@ -1,0 +1,12 @@
+C:\Andaman_Terramar\Fraccionamientos\Library_whats\bin\Debug\net5.0\Library_whats.deps.json
+C:\Andaman_Terramar\Fraccionamientos\Library_whats\bin\Debug\net5.0\Library_whats.dll
+C:\Andaman_Terramar\Fraccionamientos\Library_whats\bin\Debug\net5.0\ref\Library_whats.dll
+C:\Andaman_Terramar\Fraccionamientos\Library_whats\bin\Debug\net5.0\Library_whats.pdb
+C:\Andaman_Terramar\Fraccionamientos\Library_whats\obj\Debug\net5.0\Library_whats.csproj.AssemblyReference.cache
+C:\Andaman_Terramar\Fraccionamientos\Library_whats\obj\Debug\net5.0\Library_whats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Andaman_Terramar\Fraccionamientos\Library_whats\obj\Debug\net5.0\Library_whats.AssemblyInfoInputs.cache
+C:\Andaman_Terramar\Fraccionamientos\Library_whats\obj\Debug\net5.0\Library_whats.AssemblyInfo.cs
+C:\Andaman_Terramar\Fraccionamientos\Library_whats\obj\Debug\net5.0\Library_whats.csproj.CoreCompileInputs.cache
+C:\Andaman_Terramar\Fraccionamientos\Library_whats\obj\Debug\net5.0\Library_whats.dll
+C:\Andaman_Terramar\Fraccionamientos\Library_whats\obj\Debug\net5.0\ref\Library_whats.dll
+C:\Andaman_Terramar\Fraccionamientos\Library_whats\obj\Debug\net5.0\Library_whats.pdb

@@ -1,0 +1,6 @@
+C:\Andaman_Terramar\Fraccionamientos\BibliotecaClases\bin\Debug\BibliotecaClases.dll
+C:\Andaman_Terramar\Fraccionamientos\BibliotecaClases\bin\Debug\BibliotecaClases.pdb
+C:\Andaman_Terramar\Fraccionamientos\BibliotecaClases\obj\Debug\BibliotecaClases.csproj.CoreCompileInputs.cache
+C:\Andaman_Terramar\Fraccionamientos\BibliotecaClases\obj\Debug\BibliotecaClases.dll
+C:\Andaman_Terramar\Fraccionamientos\BibliotecaClases\obj\Debug\BibliotecaClases.pdb
+C:\Andaman_Terramar\Fraccionamientos\BibliotecaClases\obj\Debug\BibliotecaClases.csproj.AssemblyReference.cache
